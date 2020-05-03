@@ -1,4 +1,3 @@
-*.class
-*.ctxt
-*.class
-*.bluej
+---NQueens---
+*.png
+test.py
