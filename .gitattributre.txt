@@ -1,1 +1,1 @@
-*.java
+*.java linguest-detectable=false
